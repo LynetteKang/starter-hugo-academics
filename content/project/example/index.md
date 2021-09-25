@@ -8,8 +8,7 @@ date: 2021-09-25T04:07:56.916Z
 external_link: ""
 url_slides: ""
 subtitle: Functional data analysis
-tags:
-  - Deep Learning
+tags: []
 links:
   - url: https://github.com/LynetteKang/FDA
     name: ""
