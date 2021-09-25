@@ -14,6 +14,7 @@ links:
   - url: https://github.com/LynetteKang/FDA
     name: ""
     icon_pack: fab
+    icon: github
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
